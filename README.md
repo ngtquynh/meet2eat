@@ -12,7 +12,7 @@
 
 
 
-<!-- PROJECT LOGO -->
+
 <div align="center">
     <h1>meet2eat</h1>
 
