@@ -16,12 +16,12 @@
 <div align="center">
     <h1>meet2eat</h1>
 
-<h3 align="center">project_title</h3>
+
 
   <p align="center">
-    project_description
+    <h1> A revolutionary website used by college students to emerge out of their social bubble </h1>
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>LINK TO REPO »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
