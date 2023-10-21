@@ -14,7 +14,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <h1 font-size=999px>meet2eat</h1>
+    <title>meet2eat</title>
   </a>
 
 <h3 align="center">project_title</h3>
