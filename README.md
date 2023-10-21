@@ -22,13 +22,6 @@
     <h1> A revolutionary website used by college students to emerge out of their social bubble </h1>
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>LINK TO REPO »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
