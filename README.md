@@ -19,7 +19,7 @@
 
 
   <p align="center">
-    <h1> A revolutionary website used by college students to emerge out of their social bubble </h1>
+    <h2> A revolutionary website used by college students to emerge out of their social bubble </h2>
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>LINK TO REPO »</strong></a>
   </p>
