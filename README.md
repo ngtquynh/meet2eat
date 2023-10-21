@@ -172,8 +172,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Flask.com]: https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png
-[Flask_url]: https://jquery.com 
+[Flask_url]: https://flask.palletsprojects.com/en/3.0.x/
