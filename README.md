@@ -68,7 +68,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Flask][JQuery.com]][JQuery-url]
+* [![Flask][Flask.com]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
