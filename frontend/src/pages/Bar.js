@@ -13,7 +13,7 @@ const Bar = ({ onChange }) => {
     <div className="container mt-4">
       <h2>Enter your name:</h2>
       <form>
-        <div className="input-group mb-3">
+        <div className="input-group input-group-lg">
           <input
             type="text"
             className="form-control"

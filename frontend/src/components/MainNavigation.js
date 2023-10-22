@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import classes from "./MainNavigation.module.css";
+
 const MainNavigation = () => {
   return (
     <header className={classes.header}>
@@ -8,20 +9,18 @@ const MainNavigation = () => {
           <li>
             <NavLink
               to="/"
-              className={({ isActive }) =>
-                isActive ? classes.active : undefined
-              }
-              end
+              className={classes.link}
+              activeClassName={classes.active}
+              exact
             >
-              Home
+              <h1>Home Page</h1>
             </NavLink>
           </li>
           {/* <li>
             <NavLink
               to="/timeslot"
-              className={({ isActive }) =>
-                isActive ? classes.active : undefined
-              }
+              className={classes.link}
+              activeClassName={classes.active}
             >
               Time Slot
             </NavLink>
@@ -31,4 +30,5 @@ const MainNavigation = () => {
     </header>
   );
 };
+
 export default MainNavigation;
